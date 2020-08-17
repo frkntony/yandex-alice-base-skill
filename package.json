@@ -1,0 +1,27 @@
+{
+  "name": "yandex-alice-base-skill",
+  "version": "1.0.0",
+  "description": "A base Alice skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frkntony/yandex-alice-base-skill.git"
+  },
+  "keywords": [
+    "alice",
+    "yandex",
+    "voice"
+  ],
+  "author": "frkntony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frkntony/yandex-alice-base-skill/issues"
+  },
+  "homepage": "https://github.com/frkntony/yandex-alice-base-skill#readme",
+  "dependencies": {
+    "yandex-dialogs-sdk": "^2.3.0"
+  }
+}
